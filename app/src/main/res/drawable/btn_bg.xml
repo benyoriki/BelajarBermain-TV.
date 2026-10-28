@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tombol ramah remote: cincin kuning tebal saat difokus -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/btn_orange" />
+            <stroke android:width="6dp" android:color="@color/focus_ring" />
+            <corners android:radius="22dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#CC5F00" />
+            <stroke android:width="6dp" android:color="#00000000" />
+            <corners android:radius="22dp" />
+        </shape>
+    </item>
+</selector>

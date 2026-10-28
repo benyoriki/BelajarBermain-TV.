@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BelajarBermain</string>
+    <string name="loading">Memuat BelajarBermain…</string>
+    <string name="error_title">Oops! Tidak bisa terhubung</string>
+    <string name="error_offline">Periksa Wi‑Fi atau kabel internet TV, lalu tekan “Coba Lagi”.</string>
+    <string name="error_ssl">Koneksi tidak aman, jadi halaman tidak dibuka. Periksa tanggal &amp; jam TV, lalu coba lagi.</string>
+    <string name="error_server">Situs sedang bermasalah. Coba lagi beberapa saat lagi.</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="exit">Keluar</string>
+    <string name="press_back_again">Tekan Kembali sekali lagi untuk keluar</string>
+    <string name="external_blocked">Tautan luar dinonaktifkan di aplikasi ini</string>
+</resources>

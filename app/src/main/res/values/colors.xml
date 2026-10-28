@@ -1,0 +1,8 @@
+<resources>
+    <color name="splash_bg">#2F9BFF</color>
+    <color name="splash_bg_dark">#1E6FE0</color>
+    <color name="ic_background">#2F9BFF</color>
+    <color name="focus_ring">#FFD600</color>
+    <color name="btn_orange">#FF8A1F</color>
+    <color name="white">#FFFFFF</color>
+</resources>
